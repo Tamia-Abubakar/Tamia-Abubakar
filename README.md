@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tamia Abu Bakaar 👋
 
-<!--
-**Tamia-Abubakar/Tamia-Abubakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Web Development Enthusiast | AI Learner
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science graduate with an interest in Web Development and emerging technologies. I enjoy learning new technologies, building practical projects, and improving my technical skills.
+
+## 🛠️ Skills & Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Python
+- AI Fundamentals
+- Emerging Technologies
+
+## 🎯 Career Goals
+
+- Grow as a Web Developer
+- Build useful and creative projects
+- Gain practical experience
+- Learn and apply Artificial Intelligence
+
+## 💡 Areas of Interest
+
+- Web Development
+- Artificial Intelligence
+- Technology
+- Problem Solving
+- Continuous Learning
+
+---
+
+✨ Always learning, building, and exploring new technologies.
